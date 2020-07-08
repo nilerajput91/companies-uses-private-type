@@ -1,0 +1,1 @@
+# companies-uses-private-type
